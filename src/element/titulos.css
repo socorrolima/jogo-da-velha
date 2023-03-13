@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,700;1,400&display=swap');
+
+h1 {
+    font-size: 60px;
+    background-color:rgb(120,30,60);
+    color:#FAFFFA;
+    text-align: center;
+    font-family: "Open Sans",sans-serif; 
+};
+
+h2 {
+    font-size: 40px;
+    font-family: "Opens Sans",sans-serif; 
+}
+
+div{
+    padding:10px
+}
